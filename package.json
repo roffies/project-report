@@ -1,0 +1,9 @@
+{
+  "name": "smartcare-report",
+  "version": "1.0.0",
+  "description": "SmartCare - Informe Trabajo Final",
+  "scripts": {
+    "build": "node scripts/build-report.js"
+  },
+  "author": "Roffies Team"
+}
