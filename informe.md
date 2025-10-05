@@ -193,6 +193,8 @@ Cuando al menos el 25 % de los conductores que utilicen la función de alertas p
 #### 1.2.2.4. Lean UX Canvas
 ![Lean UX Canvas](https://github.com/roffies/upc-pre-202520-1asi0730-7426-roffies-report-tf/blob/correciones-documento/pierina/assets/leanuxcanvas.png?raw=true)
 
+link en miro:https://miro.com/app/board/uXjVJ-y_4UE=/ 
+
 ## 1.3. Segmentos objetivos.
 **Conductores de vehículos particulares**
 
