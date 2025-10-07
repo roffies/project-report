@@ -204,3 +204,152 @@ Aquí se muestran los mock-ups de alta fidelidad diseñados en Figma, donde se a
 ![Mockup mobile about us section](../../assets/mockup-mobile-about-us-section.webp)
 
 ![Mockup mobile FAQ and footer section](../../assets/mockup-mobile-FAQ-footer-section.webp)
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram
+
+Representa cómo SmartCare se relaciona con los tres tipos de actores y sistemas externos.
+
+![Software Architecture Context Diagram](../../assets/software-architecture-context-diagram.webp)
+
+### 4.6.2. Software Architecture Container Diagram
+
+Define los contenedores de SmartCare:
+
+![Software Architecture Container Diagram](../../assets/software-architecture-container-diagram.webp)
+
+### 4.6.3. SmartCare puede dividirse en dos Bounded Contexts principales:
+
+SmartCare puede dividirse en dos Bounded Contexts principales:
+
+![Bounded Context 1](../../assets/software-architecture-components-diagrams.webp)
+
+![Bounded Context 2](../../assets/software-architecture-components-diagrams-2.webp)
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+
+![Class Diagram](../../assets/class-diagram.webp)
+
+
+### 4.7.2. Class Directory:
+### Class User
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_user | int | Unique identifier of the user |
+| name | String | Full name of the user |
+| lastname | String | Last name of the user |
+| email | String | Email address used to log in |
+| password | String | Hashed password for authentication |
+| role | String | Role of the user (DRIVER, WORKSHOP, ADMIN) |
+
+### Class Vehicle
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_vehicle | int | Unique identifier of the vehicle |
+| plate | String | License plate number |
+| brand | String | Vehicle brand |
+| model | String | Vehicle model |
+| year | int | Manufacturing year |
+| mileage | int | Current mileage of the vehicle |
+| engine_type | String | Engine type of the vehicle |
+
+### Class MaintenanceHistory
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_history | int | Unique identifier of the maintenance record |
+| id_vehicle | int | Vehicle associated with the maintenance |
+| id_workshop | int | Workshop where maintenance was done |
+| service_type | String | Type of service performed |
+| description | String | Description of the service |
+| service_date | Date | Date the service was completed |
+| cost | Decimal | Total cost of the maintenance |
+| mileage_service | int | Vehicle mileage at time of service |
+
+### Class ServicePrediction
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_prediction | int | Unique identifier of the prediction |
+| id_vehicle | int | Vehicle associated with the prediction |
+| service_type | String | Type of service predicted |
+| estimated_date | Date | Estimated date of service |
+| estimated_cost | Decimal | Estimated cost of service |
+| probability | Float | Confidence level of the prediction |
+
+### Class WorkshopInfo
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_workshop | int | Unique identifier of the workshop |
+| commercial_name | String | Official name of the workshop |
+| description | Text | Description of the services offered |
+| location | String | Physical address of the workshop |
+| latitude | Decimal | Latitude coordinate |
+| longitude | Decimal | Longitude coordinate |
+| schedule | String | Opening hours of the workshop |
+
+### Class WorkshopService
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_service | int | Unique identifier of the service |
+| id_workshop | int | Workshop that offers the service |
+| id_catalog | int | Reference to catalog service type |
+| base_price | Decimal | Base price of the service |
+| estimated_duration | int | Estimated duration in minutes |
+
+### Class Reputation
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_reputation | int | Unique identifier of the review |
+| id_workshop | int | Workshop being reviewed |
+| id_driver | int | Driver who posted the review |
+| rating | int | Numeric rating (1–5) |
+| comment | Text | Text feedback provided |
+| date | DateTime | Date the review was posted |
+
+### Class Appointment
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_appointment | int | Unique identifier of the appointment |
+| id_driver | int | Driver who scheduled the appointment |
+| id_workshop | int | Workshop for the appointment |
+| id_vehicle | int | Vehicle for the appointment |
+| appointment_date | DateTime | Scheduled date and time |
+| status | Enum | Appointment status (Booked, Cancelled, Completed) |
+
+### Class WorkOrder
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_work_order | int | Unique identifier of the work order |
+| id_appointment | int | Appointment associated with the work order |
+| start_date | DateTime | Work start date |
+| end_date | DateTime | Work end date |
+| status | Enum | Work order status (Open, In progress, Closed) |
+| notes | Text | Notes from the workshop |
+
+### Class Evidence
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_evidence | int | Unique identifier of the evidence |
+| id_work_order | int | Work order associated with the evidence |
+| type | Enum | Evidence type (Before, After) |
+| image_url | String | URL of the evidence image |
+| description | Text | Additional comments or notes |
+
+### Class AdminCatalog
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_admin_catalog | int | Unique identifier of the admin catalog |
+| name | String | Name of the catalog group |
+| description | Text | Description of the catalog purpose |
+| created_by | int | User ID of the admin who created it |
+
+
+## 4.8. Database Design
+
+El siguiente diagrama muestra la estructura relacional de SmartCare, incluyendo las entidades, relaciones y claves foráneas definidas para garantizar la consistencia del dominio del sistema. Las tablas se diseñaron considerando principios de normalización y escalabilidad, permitiendo su implementación en MySQL, PostgreSQL o cualquier motor SQL compatible.
+
+### 4.8.1. Database Diagram
+
+![Database Diagram](../../assets/database-diagram.webp)
