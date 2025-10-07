@@ -14,10 +14,10 @@
     </tr>
     <tr>
         <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Marca y Logo</td>
-        <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Roffies</strong><br><img src="../../assets/SmartCare_logo.png" alt="SmartCare Logo" style="max-width:100px; margin-top:8px;"></td>
-        <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Concesionarios oficiales</strong><br><img src="../../assets/autoland.jpg" alt="Autoland Logo" style="max-width:100px; margin-top:8px;"></td>
-        <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Plataformas de Asistencia Vehicular<br><img src="../../assets/img_mobile.png" alt="Rimac Seguros" style="max-width:100px; margin-top:8px;"></td>
-        <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Talleres Independientes<br><img src="../../assets/autocat.jpeg" alt="AutoCat Logo" style="max-width:100px; margin-top:8px;"></td>
+        <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Roffies</strong><br><img src="../../assets/smartcare-logo.webp" alt="SmartCare Logo" style="max-width:100px; margin-top:8px;"></td>
+        <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Concesionarios oficiales</strong><br><img src="../../assets/competitor-autoland.webp" alt="Autoland Logo" style="max-width:100px; margin-top:8px;"></td>
+        <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Plataformas de Asistencia Vehicular<br><img src="../../assets/competitor-platform.webp" alt="Rimac Seguros" style="max-width:100px; margin-top:8px;"></td>
+        <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Talleres Independientes<br><img src="../../assets/competitor-autocat.webp" alt="AutoCat Logo" style="max-width:100px; margin-top:8px;"></td>
     </tr>
     <tr>
         <td rowspan="2" style="border: 1px solid black; padding: 8px; vertical-align: top; width: 15%;"><strong>Perfil</strong></td>
@@ -241,7 +241,8 @@ La sección cubre el proceso de exploración de nuestros segmentos objetivos a t
 
 **Duración de la Entrevista:** 3:31
 
-<img width="1801" height="783" alt="image" src="https://github.com/user-attachments/assets/5edca247-765d-427c-aaad-62900d09ad20" />
+
+![entrevista 1](https://github.com/user-attachments/assets/5edca247-765d-427c-aaad-62900d09ad20)
 
 **Resumen de la Entrevista:**
 Sebastián, conductor de 21 años, realiza chequeos a su vehículo de manera periódica (cada seis meses o una vez al año). Para elegir un taller, recurrió inicialmente a Google y seleccionó el primero que encontró, aunque manifiesta mayor confianza en los talleres oficiales de marca.  
@@ -265,7 +266,7 @@ Actualmente no compara precios ni talleres, prefiere acudir siempre al mismo est
 
 **Duración de la Entrevista:** 7:07
 
-<img width="2280" height="724" alt="image" src="https://github.com/user-attachments/assets/3c9a38f1-f9ca-462b-aca5-ce680179ae1f" />
+![entrevista 2](https://github.com/user-attachments/assets/3c9a38f1-f9ca-462b-aca5-ce680179ae1f)
 
 **Resumen de la Entrevista:** 
 RM AUTOMOTRIZ es un taller con 8 años de experiencia que ofrece mecánica general y servicios eléctricos básicos. Actualmente capta clientes principalmente por recomendaciones, ubicación y un uso limitado de redes sociales, pero reconoce la importancia de fortalecer su presencia digital. El taller enfrenta problemas de seguimiento, ya que muchos clientes no regresan por falta de recordatorios, y aún maneja cotizaciones de forma manual. Ven con interés la implementación de herramientas como agenda en línea, alertas de mantenimiento y un botón SOS para emergencias, ya que mejorarían la organización, fidelización y captación de clientes. Para afiliarse a una plataforma como Roffies consideran clave la confianza, la visibilidad y costos razonables, y estarían dispuestos a pagar una suscripción premium siempre que garantice mayor exposición, acceso a clientes verificados y beneficios adicionales como estadísticas y recordatorios automatizados

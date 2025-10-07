@@ -1,3 +1,275 @@
+# <center>Project Report</center>
+
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software - 2025-20</strong><br>
+    <strong>Aplicaciones Web - 7426</strong><br>
+    <strong>Profesor: Naldo Reupo-Musayon Gastulo</strong><br>
+    <br><strong>Informe del Trabajo Final</strong>
+</p>
+
+</p>
+
+<p align="center">
+    <strong>Startup: Roffies</strong><br>
+    <strong>Producto: Smartcare</strong>
+</p>
+
+<div style="text-align:center;">
+    <h3>Team Members:</h3>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Piero Angel Sulca Sánchez</td>
+            <td>u202423711</td>
+        </tr>
+    </table>
+</div>
+
+<p align="center">
+    <strong>Octubre, 2025</strong>
+</p>
+<br>
+
+<h1 align="center">Registro de versiones del Informe</h1>
+</br>
+<table>
+      <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificaciones</th>
+      </tr>
+<tr>
+  <td>1.0</td>
+  <td>18/09/2025</td>
+  <td>Equipo: Piero A. Sulca Sánchez; Rúbens Bendezu Navarro; Luis S. Rubio Ortiz; Johan K. Bottger Salazar; Pierina M. Almandroz Carbajal</td>
+  <td>Creación y contenido inicial del reporte realizado por el equipo: redacción de secciones principales, perfiles de integrantes y primeros artefactos (diagramas y tablas).</td>
+</tr>
+<tr>
+  <td>2.0</td>
+  <td>07/10/2025</td>
+  <td>Equipo: Piero A. Sulca Sánchez; Rúbens Bendezu Navarro; Luis S. Rubio Ortiz; Johan K. Bottger Salazar; Pierina M. Almandroz Carbajal</td>
+  <td>Actualización del informe realizada por el equipo: corrección de errores, actualización de contenidos, incorporación de evidencias y reestructuración de secciones.</td>
+</tr>
+</table>
+
+</br>
+
+
+# Project Report Collaboration Insights
+Link de repositorio del reporte: https://github.com/roffies/upc-pre-202520-1asi0730-7426-roffies-report-tf
+
+## TB1
+En esta entrega, cada integrante del equipo participó activamente en el desarrollo del proyecto y en la implementación de la Landing Page, distribuyéndose por secciones de acuerdo con el diseño y contenido previamente definidos. Las capturas de los análisis de colaboración del repositorio oficial reflejan la contribución de todos los miembros.
+![Contributions tb1](../../assets/project-report-collaboration-insights-1.webp)
+
+## TP1
+En esta entrega, la colaboración coordinada del equipo hizo posible la implementación de las principales funcionalidades de la aplicación web. La distribución de tareas por secciones, conforme al diseño y contenido establecidos, optimizó el desarrollo. Los registros de colaboración del repositorio oficial demuestran la participación activa de todos los integrantes.
+![Contributions tp](../../assets/project-report-collaboration-insights-1.webp)
+
+# Contenido
+[Student Outcome](#student-outcome)
+
+- [COURSE PROJECT](#course-project)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Contenido](#contenido)
+- [Student Outcome](#student-outcome)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2 Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems.](#421-organization-systems)
+    - [4.2.2. Labeling Systems.](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems.](#424-searching-systems)
+    - [4.2.5. Navigation Systems.](#425-navigation-systems)
+  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
+    - [4.4.2. Web Applications Mock-ups.](#442-web-applications-mock-ups)
+    - [4.4.3. Web Applications User Flow Diagrams.](#443-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams.](#471-class-diagrams)
+    - [4.7.2. Class Dictionary.](#472-class-dictionary)
+  - [4.8. Database Design.](#48-database-design)
+    - [4.8.1. Database Diagram.](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1. Software Configuration Management.](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management.](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3. Sprint Backlog 1.](#5213-sprint-backlog-n)
+      - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2.](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+
+- [Conclusiones](#conclusiones)
+  - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
+
+# Student Outcome
+
+ABET – EAC - Student Outcome 5
+
+**Criterio:**  Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+<table>
+  <tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+  </tr>
+    </thead>
+  <tbody>
+    <tr>
+      <td><b>Comunica oralmente con efectividad a diferentes rangos de audiencia.</b></td>
+      <td>
+        <p><b>Piero Angel Sulca Sánchez</b></p>
+        <p><b>TB1:</b></p>
+        <p>Durante la primera entrega, participé en la exposición del Capítulo 3 – Requirements Specification. Expliqué la relación entre los artefactos de diseño —como el To-Be Scenario Mapping, las User Stories, el Impact Mapping y el Product Backlog—, y cómo estos se conectaban con los objetivos del Lean UX Canvas. Utilicé un lenguaje técnico con mi equipo y uno más visual y funcional al exponer ante los docentes, buscando siempre una comunicación clara y adaptada al público.</p>
+        <p><b>TP1:</b></p>
+        <p>En el segundo avance, lideré la sustentación de las correcciones del informe y la presentación del Frontend base de la aplicación. Expliqué las mejoras en la arquitectura de componentes y la actualización de la Landing Page, justificando las decisiones visuales y estructurales. Mi comunicación oral fue clave para evidenciar la coherencia entre la documentación, la interfaz y la lógica técnica del sistema.</p>
+          <br>       
+        <p><b>Rúbens Bendezu Navarro</b></p>
+        <p><b>TB1:</b></p>
+        <p>Me encargué de exponer el Capítulo 4 – Product Design, presentando las bases del diseño visual y la arquitectura de información del sistema. Expliqué la relación entre las Style Guidelines y el prototipo inicial, mostrando cómo las decisiones de diseño se alineaban con los requerimientos funcionales del proyecto.</p>
+        <p><b>TP1:</b></p>
+        <p></p>
+          <br>         
+        <p><b>Johan Karl Bottger Salazar</b></p>
+        <p><b>TB1:</b></p>
+        <p>Expliqué el Capítulo 1 – Startup Profile & Solution Profile y la primera versión de la Landing Page. Mostré la propuesta de valor y los objetivos del proyecto, conectando los fundamentos del modelo de negocio con la experiencia del usuario dentro de la aplicación.</p>
+        <p><b>TP1:</b></p>
+        <p></p>
+        <p><b>Luis Sebastián Rubio Ortiz</b></p>
+        <p><b>TB1:</b></p>
+        <p>Expuse el Capítulo 2 – Requirements Elicitation & Analysis, presentando los hallazgos de las entrevistas y el análisis de competidores. Detallé cómo esta información fundamentó la definición de los usuarios y las funcionalidades de la aplicación.</p>
+        <p><b>TP1:</b></p>
+        <p></p>
+        <p></p>
+          <br>         
+        <p><b>Pierina Marysabel Almandroz Carbajal</b></p>
+        <p><b>TB1:</b></p>
+        <p>Presenté el Capítulo 5 – Product Implementation, Validation & Deployment, explicando la estructura inicial de validación y despliegue del sistema. Destaqué la importancia de conectar los avances técnicos con los objetivos de desarrollo propuestos para SmartCare.</p>
+        <p><b>TP1:</b></p>
+        <p></p>
+      </td>
+      <br>
+      <td>
+        <p><b>TB1:</b></p>
+        <p>Como equipo, logramos una comunicación oral clara, organizada y adaptada a cada público. Cada integrante asumió la exposición de su capítulo con dominio del tema, lo que permitió mostrar una comprensión integral del proyecto SmartCare.</p>
+        <p><b>TP1:</b></p>
+        <p>En este avance, mejoramos notablemente la comunicación oral. Las presentaciones sobre las correcciones, la Landing Page y el Frontend base demostraron claridad, dominio técnico y una coordinación efectiva entre todos los miembros del grupo.</p>
+          <br>
+      </td>
+      </tr>
+      <tr>
+      <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+      <td>
+        <p><b>Piero Ángel Sulca Sánchez</b></p>
+        <p><b>TB1:</b></p>
+        <p>Redacté el Capítulo 3, describiendo con detalle los artefactos de especificación de requisitos: Scenario Mapping, User Stories, Impact Mapping y Product Backlog. Utilicé un lenguaje técnico claro y coherente, lo que facilitó la comprensión del enfoque ágil dentro del documento.</p>
+        <p><b>TP1:</b></p>
+        <p>Me encargué de revisar y corregir el informe completo, unificando el estilo de redacción y aplicando las observaciones docentes. También actualicé el contenido de la Landing Page en el repositorio e implementé la base del Frontend, dejando evidencia escrita mediante commits descriptivos y ordenados.</p>
+          <br>         
+        <p><b>Rúbens Bendezu Navarro</b></p>
+        <p><b>TB1:</b></p>
+        <p>Redacté el Capítulo 4, documentando los lineamientos de diseño visual y la arquitectura de información. Cuidé que la redacción mantuviera coherencia estética y funcional, registrando las decisiones de diseño y estilo aplicadas al sistema.</p>
+        <p><b>TP1:</b></p>
+        <p></p>
+          <br>      
+        <p><b>Johan Karl Bottger Salazar</b></p>
+        <p><b>TB1:</b></p>
+        <p>Redacté el Capítulo 1, comunicando el perfil de la startup, la problemática abordada y los objetivos del proyecto. Procuré una escritura clara y ordenada que sirviera como base conceptual del trabajo.</p>
+        <p><b>TP1:</b></p>
+        <p></p>
+          <br>         
+        <p><b>Luis Sebastián Rubio Ortiz</b></p>
+       <p><b>TB1:</b></p>
+        <p>Escribí el Capítulo 2, donde documenté el análisis de usuarios y competidores. Me aseguré de mantener una redacción estructurada y analítica que reflejara los fundamentos de las decisiones de diseño y desarrollo.</p>
+        <p><b>TP1:</b></p>
+        <p></p>
+        <br>         
+        <p><b>Pierina Marysabel Almandroz Carbajal</b></p>
+       <p><b>TB1:</b></p>
+        <p>Elaboré el Capítulo 5, detallando la implementación técnica, la validación funcional y los lineamientos de despliegue del sistema. Mantuvé una redacción técnica, clara y organizada, lo que permitió una mejor comprensión de los aspectos operativos del proyecto.</p>
+        <p><b>TP1:</b></p>
+        <p></p>
+      </td>   
+      <td>
+       <p><b>TB1:</b></p>
+        <p>Como grupo, logramos una comunicación escrita clara, estructurada y coherente entre capítulos. Cada uno mantuvo un estilo técnico uniforme, lo que permitió entregar un informe sólido y alineado con los objetivos del curso.</p>
+        <p><b>TP1:</b></p>
+        <p>En este avance, consolidamos la redacción y documentación del proyecto a través de las correcciones y la actualización de la Landing Page. Estas mejoras reflejaron una comunicación escrita más madura y técnica, evidenciando orden, precisión y consistencia en los registros del trabajo.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 # **Capítulo I: Introducción**
 
 ## 1.1. Startup Profile
@@ -16,17 +288,17 @@ El sistema consiste en un historial digital de mantenimientos, alertas de manten
 
 
 **Logotipo del servicio**
-![MockupWebApp1](../../assets/SmartCare_logo.png)
+![MockupWebApp1](../../assets/smartcare-logo.webp)
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
 |                                             **Integrantes**                                              |                                                                                                                                                                                            **Descripción del Perfil**                                                                                                                                                                                            |
 | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Piero Angel Sulca Sanchez(U202423711)**<br/><img src="../../assets/piero-sulca-sanchez.png" width="300"/> | <div align="justify">Me llamo Piero Angel Sulca Sanchez, soy estudiante de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías para poder seguir mejorando. Tengo conocimiento en tecnologías de desarrollo web como TypeScript, React, Next.js y NestJS. Estoy muy interesado en el desarrollo de aplicaciones web.</div> |
-|                     **Rúbens Bendezu Navarro (U20231d390)**<br/><img src="../../assets/profile_rubens_bendezu.jpeg" width="300"/>                     |          <div align="justify">Me llamo Rúbens Bendezu Navarro, soy estudiante de Ingeniería de Software. Me considero una persona motivada por el aprendizaje continuo y el trabajo en equipo, ya que compartir ideas y experiencias enriquece tanto el desarrollo personal como el profesional. Tengo conocimientos en tecnologías de desarrollo web y frameworks modernos, y me interesa especialmente el desarrollo de aplicaciones web que aporten soluciones innovadoras y de impacto.</div>                                                                                                                                                                                                                                                                                                                                                                                                         |
-|                     **Luis Sebastián Rubio Ortiz (U202310349)**<br/><img src="../../assets/Luis Sebastián Rubio Ortiz.jpg" width="300"/>                     | <div align="justify">Me llamo Luis Sebastián Rubio ortiz, soy estudiante de Ingeniería de Software y actualmente estoy cursando el quinto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar a mis compañeros con cualquier cosa que necesiten.</div> |
-|                     **Johan Karl Bottger Salazar (u202210735)**<br/><img src="../../assets/Johan.jpg" width="300"/>                     |  <div align="justify">Soy Johan Karl Bottger Salazar, y soy estudiante de Ingeniería de Software. Tengo mucho interés en las metodologías ágiles y me gustaría especializarme en ello.</div>                                                                                                                                                                                                                                                                                                                                                                                                                |
-|                     **Pierina Marysabel Almandroz Carbajal (U202316845)**<br/><img src="../../assets/Pierina_Almandroz_Carbajal.jpeg" width="300"/>                     |  Soy Pierina, tengo 19 años, soy estudiante de 5to ciclo de Ing. de Software. Me encuentro comprometida con el grupo y tengo un gran interés en el desarrollo de aplicaciones web, área en la que busco seguir especializándome.                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Piero Angel Sulca Sanchez(U202423711)**<br/><img src="../../assets/member-piero-sulca.webp" width="300"/> | <div align="justify">Me llamo Piero Angel Sulca Sanchez, soy estudiante de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías para poder seguir mejorando. Tengo conocimiento en tecnologías de desarrollo web como TypeScript, React, Next.js y NestJS. Estoy muy interesado en el desarrollo de aplicaciones web.</div> |
+|                     **Rúbens Bendezu Navarro (U20231d390)**<br/><img src="../../assets/member-rubens-bendezu.webp" width="300"/>                     |          <div align="justify">Me llamo Rúbens Bendezu Navarro, soy estudiante de Ingeniería de Software. Me considero una persona motivada por el aprendizaje continuo y el trabajo en equipo, ya que compartir ideas y experiencias enriquece tanto el desarrollo personal como el profesional. Tengo conocimientos en tecnologías de desarrollo web y frameworks modernos, y me interesa especialmente el desarrollo de aplicaciones web que aporten soluciones innovadoras y de impacto.</div>                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                     **Luis Sebastián Rubio Ortiz (U202310349)**<br/><img src="../../assets/member-luis-rubio.webp" width="300"/>                     | <div align="justify">Me llamo Luis Sebastián Rubio ortiz, soy estudiante de Ingeniería de Software y actualmente estoy cursando el quinto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar a mis compañeros con cualquier cosa que necesiten.</div> |
+|                     **Johan Karl Bottger Salazar (u202210735)**<br/><img src="../../assets/member-johan-bottger.webp" width="300"/>                     |  <div align="justify">Soy Johan Karl Bottger Salazar, y soy estudiante de Ingeniería de Software. Tengo mucho interés en las metodologías ágiles y me gustaría especializarme en ello.</div>                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                     **Pierina Marysabel Almandroz Carbajal (U202316845)**<br/><img src="../../assets/member-pierina-almandroz.webp" width="300"/>                     |  Soy Pierina, tengo 19 años, soy estudiante de 5to ciclo de Ing. de Software. Me encuentro comprometida con el grupo y tengo un gran interés en el desarrollo de aplicaciones web, área en la que busco seguir especializándome.                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 
 ## 1.2. Solution Profile
@@ -188,14 +460,12 @@ Sabremos que hemos tenido éxito
 
 Cuando al menos el 25 % de los conductores que utilicen la función de alertas predictivas registran una reducción en sus averías correctivas en un periodo de seis meses, en comparación con usuarios que no activen esta función.
 
-
-
 #### 1.2.2.4. Lean UX Canvas
-![Lean UX Canvas](../../assets/leanuxcanvas.png)
+![Lean UX Canvas](../../assets/lean-ux-canvas.webp)
 
 link en miro: https://miro.com/app/board/uXjVJ-y_4UE=/ 
 
-## 1.3. Segmentos objetivos.
+## 1.3. Segmentos objetivo
 **Conductores de vehículos particulares**
 
 Este segmento incluye a propietarios de automóviles particulares. De acuerdo con la Asociación Automotriz del Perú (AAP), en 2023 el parque automotor peruano superó los 3,5 millones de vehículos, de los cuales más del 65 % se concentran en Lima y Callao (AAP, 2023). Este crecimiento constante genera una demanda creciente de servicios de mantenimiento y reparación. Sin embargo, los conductores enfrentan problemas de informalidad en talleres, sobrecostos y ausencia de historiales de servicio digitalizados, lo que afecta la seguridad y la eficiencia del uso de sus vehículos.

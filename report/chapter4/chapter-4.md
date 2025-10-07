@@ -160,18 +160,47 @@ El diseño de la **Landing Page** de SmartCare tiene como objetivo principal tra
 
 En esta sección se presentan los wireframes de la landing page, donde se define la disposición de los elementos principales y la jerarquía de información.
 
-![Wireframe 1](../../assets/Wireframe1.png)
-![Wireframe 2](../../assets/Wireframe2.png)
-![Wireframe 3](../../assets/Wireframe3.png)
-![Wireframe 4](../../assets/Wireframe4.png)
-![Wireframe 5](../../assets/Wireframe5.png) 
+![Wireframe hero section](../../assets/wireframe-hero-section.webp)
+![Wireframe how it works section](../../assets/wireframe-how-it-works-section.webp)
+![Wireframe benefits section B2C](../../assets/wireframe-benefits-section-b2c.webp)
+![Wireframe benefits section B2B](../../assets/wireframe-benefits-section-b2b.webp)
+![Wireframe about us section](../../assets/wireframe-about-us-section.webp)
+![Wireframe FAQ and footer section](../../assets/wireframe-FAQ-footer-section.webp)
+
+![Wireframe mobile hero section](../../assets/wireframe-mobile-hero-section.webp)
+![Wireframe mobile menu](../../assets/wireframe-mobile-menu.webp)
+
+![Wireframe mobile how it works section](../../assets/wireframe-mobile-how-it-works-section.webp)
+
+![Wireframe mobile benefits section B2C](../../assets/wireframe-mobile-benefits-section-b2c.webp)
+
+![Wireframe mobile benefits section B2B](../../assets/wireframe-mobile-benefits-section-b2b.webp)
+
+![Wireframe mobile about us section](../../assets/wireframe-mobile-about-us-section.webp)
+
+![Wireframe mobile FAQ and footer section](../../assets/wireframe-mobile-FAQ-footer-section.webp)
+
 
 ### 4.3.2. Landing Page Mock-up
 
 Aquí se muestran los mock-ups de alta fidelidad diseñados en Figma, donde se aplican la paleta de colores, tipografía e iconografía definidos en las guías de estilo.
 
-![UI 1](../../assets/UI1.png)
-![UI 2](../../assets/UI2.png)
-![UI 3](../../assets/UI3.png)
-![UI 4](../../assets/UI4.png)
-![UI 5](../../assets/UI5.png)
+![Mockup hero section](../../assets/mockup-hero-section.webp)
+![Mockup how it works section](../../assets/mockup-how-it-works-section.webp)
+![Mockup benefits section B2C](../../assets/mockup-benefits-section-b2c.webp)
+![Mockup benefits section B2B](../../assets/mockup-benefits-section-b2b.webp)
+![Mockup about us section](../../assets/mockup-about-us-section.webp)
+![Mockup FAQ and footer section](../../assets/mockup-FAQ-footer-section.webp)
+
+![Mockup mobile hero section](../../assets/mockup-mobile-hero-section.webp)
+![Mockup mobile menu](../../assets/mockup-mobile-menu.webp)
+
+![Mockup mobile how it works section](../../assets/mockup-mobile-how-it-works-section.webp)
+
+![Mockup mobile benefits section B2C](../../assets/mockup-mobile-benefits-section-b2c.webp)
+
+![Mockup mobile benefits section B2B](../../assets/mockup-mobile-benefits-section-b2b.webp)
+
+![Mockup mobile about us section](../../assets/mockup-mobile-about-us-section.webp)
+
+![Mockup mobile FAQ and footer section](../../assets/mockup-mobile-FAQ-footer-section.webp)

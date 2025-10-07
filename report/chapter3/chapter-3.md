@@ -12,11 +12,11 @@ A continuación, se presentan los escenarios *To-Be* para nuestros dos segmentos
 
 **To-Be Scenario: Segmento Objetivo - Dueño de vehículo**
 
-![To-Be Scenario Mapping Conductor](../../assets/31-to-be-scenario-mapping-conductor.jpg)
+![To-Be Scenario Mapping Conductor](../../assets/to-be-scenario-mapping-driver.webp)
 
 **To-Be Scenario: Segmento Objetivo - Jefe/Asesor de Taller Afiliado**
 
-![To-Be Scenario Mapping Jefe Taller](../../assets/31-to-be-scenario-mapping-jefe-taller.jpg)
+![To-Be Scenario Mapping Jefe Taller](../../assets/to-be-scenario-mapping-workshop.webp)
 
 ## 3.2. User Stories 
 Las User Stories se redactaron a partir de las necesidades identificadas en la investigación previa, considerando los segmentos objetivo (dueños de vehículos y dueños de talleres). Además, se incluyen historias de negocio, técnicas y de soporte (Landing Page), que son necesarias para asegurar la correcta operación y adopción de **SmartCare**.
@@ -96,11 +96,11 @@ A continuación, se presentan los mapas de impacto para cada uno de nuestros seg
 
 **Impact Map: Segmento Objetivo - Dueño de vehículo**
 
-![Impact Mapping Conductor](../../assets/33-impact-mapping-conductor.jpg)
+![Impact Mapping Conductor](../../assets/impact-mapping-driver.webp)
 
 **Impract Map: Segmento Objetivo - Jefe/Asesor de Taller Afiliado**
 
-![Impact Mapping Jefe Taller](../../assets/33-impact-mapping-jefe-taller.jpg)
+![Impact Mapping Jefe Taller](../../assets/impact-mapping-workshop.webp)
 
 ## 3.4. Product Backlog
 
