@@ -171,6 +171,8 @@ En esta entrega, la colaboración coordinada del equipo hizo posible la implemen
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
+---
+
 # Student Outcome
 
 ABET – EAC - Student Outcome 5
