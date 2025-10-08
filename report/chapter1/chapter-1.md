@@ -27,6 +27,10 @@
             <td>Piero Angel Sulca Sánchez</td>
             <td>u202423711</td>
         </tr>
+        <tr>
+            <td>Johan Karl Bottger Salazar</td>
+            <td>u202210735</td>
+        </tr>
     </table>
 </div>
 
@@ -206,7 +210,7 @@ ABET – EAC - Student Outcome 5
         <p><b>TB1:</b></p>
         <p>Expliqué el Capítulo 1 – Startup Profile & Solution Profile y la primera versión de la Landing Page. Mostré la propuesta de valor y los objetivos del proyecto, conectando los fundamentos del modelo de negocio con la experiencia del usuario dentro de la aplicación.</p>
         <p><b>TP1:</b></p>
-        <p></p>
+        <p>En está entrega realizé gran parte del desarrollo del front end application siguiendo la propuesta de valor y los objetivos del proyecto establecidos.</p>
         <p><b>Luis Sebastián Rubio Ortiz</b></p>
         <p><b>TB1:</b></p>
         <p>Expuse el Capítulo 2 – Requirements Elicitation & Analysis, presentando los hallazgos de las entrevistas y el análisis de competidores. Detallé cómo esta información fundamentó la definición de los usuarios y las funcionalidades de la aplicación.</p>
@@ -248,7 +252,7 @@ ABET – EAC - Student Outcome 5
         <p><b>TB1:</b></p>
         <p>Redacté el Capítulo 1, comunicando el perfil de la startup, la problemática abordada y los objetivos del proyecto. Procuré una escritura clara y ordenada que sirviera como base conceptual del trabajo.</p>
         <p><b>TP1:</b></p>
-        <p></p>
+        <p>Documenté efectivamente el desarrollo del Sprint 2. Asegurando la validez de la información en una estructura ordenada y clara, en relación con la base teórica del proyecto.</p>
           <br>         
         <p><b>Luis Sebastián Rubio Ortiz</b></p>
        <p><b>TB1:</b></p>
