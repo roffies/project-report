@@ -130,3 +130,79 @@ Durante el transcurso de este sprint, todos los miembros participaron de forma a
 equipo durante el Sprint 1:
 
 ![Alt text](../../assets/sprint-1-collaboration-insights.webp)
+
+
+### 5.2.2 Sprint 2
+Durante este período, nos enfocamos en la implementación de las características y funcionalidades prioritarias identificadas en la planificación inicial. Esto implica traducir los requisitos y especificaciones en código funcional, desarrollando las bases de nuestro producto de manera iterativa.
+
+
+#### 5.2.2.1 Sprint Planning 2
+En esta sección, se presentará el sprint #2 con la versión inicial del trabajo para la entrega del proyecto, detallando la organización, distribución y evidencia de resultados de la frontend Web Application.
+
+| Sprint 1  | Date  | Time  | Location  | Prepared By  | Attendees  |
+|---|---|---|---|---|---|
+| 1  | 28/9/2025  | 21:00  | Reunión mediante Google Meet  | Luis Sebastián Rubio  | Johan Bottger, Pierina Carbajal, Piero Sulca, Rubens Bendezu |
+| Sprint 2 Goal  | Sprint 2 Velocity  | Sum of Story Points  | Aspectos Técnicos  |
+|---|---|---|
+| Desarrollo e Implementación del Frontend Web Application | 15  | 15 | HTML5, CSS3, JS, Figma, Vue, Primevue  |
+
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+Los aspectos principales considerados para el sprint corresponden a los bounded contexts aplicados en el desarrollo del frontend web Application.
+
+| Team Member | Github Username | Frontend Main (Context Auth) | Feature Appointments | Feature Workshop | Feature Profile | Feature Vehicle |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| Piero Ángel Sulca Sánchez | psulca | L | C | C5 | C | C |
+| Johan Karl Bottger Salazar | Deskjobo | C | L | C | C | C |
+| Luis Sebastián Rubio Ortiz | notoriussxd | C | C | C | L | C |
+| Pierina Marysabel Almandroz Carbajal | pierinaaa29 | C | C | C | C | L |
+| Rubens Bendezú Navaro | Lucemz | C | C | L | C | C |
+
+#### 5.2.2.3 Sprint Backlog 1
+Durante este segundo Sprint el equipo se enfocó en la elaboración del frontend, organizando y distribuyendo tareas en el tablero de Sprint de acuerdo con las habilidades de cada integrante.
+
+| Sprint 2  | Frontend Web Application|           |           |           |           |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| User Story | Work-Item Task | Description | Estimation hrs | Assigned To | Status |
+| HU02 Authentication | Development of Bounded Context | - | 3 | Piero Sulca | Done |
+| HU03 Feature Appointments | Development of Bounded Context | - | 3 | Johan Bottger | Done |
+| HU04 Feature Workshop | Development of Bounded Context | - | 3 | Rubens Bendezú | Done |
+| HU05 Feature Profile | Development of Bounded Context | - | 3 | Sebastián Rubio | Done |
+| HU06 Feature Vehicle | Development of Bounded Context | - | 3 | Pierina Almandroz | Done |
+
+#### 5.2.2.4 Development Evidence for Sprint Review
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del segundo Sprint: Frontend Web Application.
+
+A continuación, se presentan los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó para el desarrollo del proyecto.
+
+![Alt text](../../assets/sprint-2-development-evidence.jpg)
+
+| Repository | Branch | Commit ID | Message | Body | Commit Date  |
+|---|---|---|---|---|---|
+| Roffies | feature-profile-workshop | 019717ba6661b2858e5f97c3bcaa60023783ec52 | feat: Add feature Profile in view Workshop Profile | - | 7/10/2025 |
+| Roffies | feature-appointments | 1bc2f7faefc7a81d5035e2f8c8001922e6beae70 | Feat: Added Appointment Service for Driver domain | - | 8/10/2025 |
+
+#### 5.2.1.5 Testing Suite Evidence for Sprint Review
+No aplica.
+
+#### 5.2.1.6 Execution Evidence for Sprint Review
+Se incluyen capturas detalladas de la ejecución del Frontend Web Application de la aplicación como evidencia.
+La Landing Page es compuesta por varias secciones que se presentan en las capturas a continuación.
+
+![Alt text](../../assets/sprint-2-execution-1.jpg)
+![Alt text](../../assets/sprint-2-execution-2.jpg)
+
+#### 5.2.1. Services Documentation Evidence for Sprint Review
+No aplica a primer sprint y desarrollo del Frontend Web Application.
+
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Se incluye la evidencia de despliegue del Frontend Web Application en Vercel.
+
+![Alt text](../../assets/sprint-2-deployment-evidence.jpg)
+
+#### 5.2.1.8 Team Collaboration Insights during Sprint
+Durante el transcurso de este sprint, todos los miembros participaron de forma activa y constante en la creación de las tareas asignadas. A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del
+equipo durante el Sprint 2:
+
+![Alt text](../../assets/sprint-2-collaboration-insights.jpg)
