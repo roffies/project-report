@@ -31,6 +31,10 @@
             <td>Johan Karl Bottger Salazar</td>
             <td>u202210735</td>
         </tr>
+          <tr>
+            <td>Rúbens Fitzgerald Bendezu Navarro</td>
+            <td>u20231D390</td>
+        </tr>
     </table>
 </div>
 
@@ -200,12 +204,13 @@ ABET – EAC - Student Outcome 5
         <p><b>TP1:</b></p>
         <p>En el segundo avance, lideré la sustentación de las correcciones del informe y la presentación del Frontend base de la aplicación. Expliqué las mejoras en la arquitectura de componentes y la actualización de la Landing Page, justificando las decisiones visuales y estructurales. Mi comunicación oral fue clave para evidenciar la coherencia entre la documentación, la interfaz y la lógica técnica del sistema.</p>
           <br>       
-        <p><b>Rúbens Bendezu Navarro</b></p>
+       <p><b>Rúbens Bendezu Navarro</b></p>
         <p><b>TB1:</b></p>
         <p>Me encargué de exponer el Capítulo 4 – Product Design, presentando las bases del diseño visual y la arquitectura de información del sistema. Expliqué la relación entre las Style Guidelines y el prototipo inicial, mostrando cómo las decisiones de diseño se alineaban con los requerimientos funcionales del proyecto.</p>
         <p><b>TP1:</b></p>
-        <p></p>
-          <br>         
+        <p>Durante la presentación del segundo avance, expliqué el desarrollo del módulo Workshop dentro del web application. Mostré cómo se implementó la vista de talleres y el detalle de cada uno usando Vue Router, composición modular (DDD) y consumo de la API de talleres. Expuse las decisiones técnicas detrás de la estructura de componentes, la lógica del servicio y el diseño aplicado, adaptando el discurso tanto al público técnico como a los docentes, con un enfoque claro y funcional.
+</p>
+        <br>        
         <p><b>Johan Karl Bottger Salazar</b></p>
         <p><b>TB1:</b></p>
         <p>Expliqué el Capítulo 1 – Startup Profile & Solution Profile y la primera versión de la Landing Page. Mostré la propuesta de valor y los objetivos del proyecto, conectando los fundamentos del modelo de negocio con la experiencia del usuario dentro de la aplicación.</p>
@@ -246,8 +251,8 @@ ABET – EAC - Student Outcome 5
         <p><b>TB1:</b></p>
         <p>Redacté el Capítulo 4, documentando los lineamientos de diseño visual y la arquitectura de información. Cuidé que la redacción mantuviera coherencia estética y funcional, registrando las decisiones de diseño y estilo aplicadas al sistema.</p>
         <p><b>TP1:</b></p>
-        <p></p>
-          <br>      
+        <p>Documenté el desarrollo del módulo Workshop en el informe y en el repositorio. Describí la creación de las páginas de listado y detalle de talleres, la integración con la API y la aplicación del layout y estilos. Registré los cambios con mensajes de commit claros y precisos, manteniendo un lenguaje técnico coherente con el resto del equipo.</p>
+        <br>    
         <p><b>Johan Karl Bottger Salazar</b></p>
         <p><b>TB1:</b></p>
         <p>Redacté el Capítulo 1, comunicando el perfil de la startup, la problemática abordada y los objetivos del proyecto. Procuré una escritura clara y ordenada que sirviera como base conceptual del trabajo.</p>
