@@ -209,9 +209,8 @@ ABET – EAC - Student Outcome 5
         <p><b>TB1:</b></p>
         <p>Expuse el Capítulo 2 – Requirements Elicitation & Analysis, presentando los hallazgos de las entrevistas y el análisis de competidores. Detallé cómo esta información fundamentó la definición de los usuarios y las funcionalidades de la aplicación.</p>
         <p><b>TP1:</b></p>
-        <p></p>
-        <p></p>
-          <br>         
+        <p>En el segundo avance, me encargue de explicar la parte del Domain Driven Desing, basandonos en las buenas practicas y lograr que el proyecto de Smart Care se produzca en forma ordenada, así explicar el diseño de la Database.</p>
+          <br>       
         <p><b>Pierina Marysabel Almandroz Carbajal</b></p>
         <p><b>TB1:</b></p>
         <p>Presenté el Capítulo 5 – Product Implementation, Validation & Deployment, explicando la estructura inicial de validación y despliegue del sistema. Destaqué la importancia de conectar los avances técnicos con los objetivos de desarrollo propuestos para SmartCare.</p>
@@ -252,8 +251,8 @@ ABET – EAC - Student Outcome 5
        <p><b>TB1:</b></p>
         <p>Escribí el Capítulo 2, donde documenté el análisis de usuarios y competidores. Me aseguré de mantener una redacción estructurada y analítica que reflejara los fundamentos de las decisiones de diseño y desarrollo.</p>
         <p><b>TP1:</b></p>
-        <p></p>
-        <br>         
+        <p>En el segundo avance, me encargué de diseñar la estructura del proyecto sobre Domain Driven Desing, así mismo como el diseño y implementación de parte del código del Frontend de Smart Care.</p>
+          <br>      
         <p><b>Pierina Marysabel Almandroz Carbajal</b></p>
        <p><b>TB1:</b></p>
         <p>Elaboré el Capítulo 5, detallando la implementación técnica, la validación funcional y los lineamientos de despliegue del sistema. Mantuvé una redacción técnica, clara y organizada, lo que permitió una mejor comprensión de los aspectos operativos del proyecto.</p>
