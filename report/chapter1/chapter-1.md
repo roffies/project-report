@@ -35,6 +35,14 @@
             <td>Rúbens Fitzgerald Bendezu Navarro</td>
             <td>u20231D390</td>
         </tr>
+        <tr>
+            <td>Pierina Marysabel</td>
+            <td>u202316845</td>
+        </tr>
+        <tr>
+            <td>Luis Sebastián Rubio Ortiz</td>
+            <td>u202310349</td>
+        </tr>
     </table>
 </div>
 
