@@ -27,6 +27,22 @@
             <td>Piero Angel Sulca Sánchez</td>
             <td>u202423711</td>
         </tr>
+        <tr>
+            <td>Johan Karl Bottger Salazar</td>
+            <td>u202210735</td>
+        </tr>
+          <tr>
+            <td>Rúbens Fitzgerald Bendezu Navarro</td>
+            <td>u20231D390</td>
+        </tr>
+        <tr>
+            <td>Pierina Marysabel</td>
+            <td>u202316845</td>
+        </tr>
+        <tr>
+            <td>Luis Sebastián Rubio Ortiz</td>
+            <td>u202310349</td>
+        </tr>
     </table>
 </div>
 
@@ -171,6 +187,8 @@ En esta entrega, la colaboración coordinada del equipo hizo posible la implemen
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
+---
+
 # Student Outcome
 
 ABET – EAC - Student Outcome 5
@@ -194,23 +212,25 @@ ABET – EAC - Student Outcome 5
         <p><b>TP1:</b></p>
         <p>En el segundo avance, lideré la sustentación de las correcciones del informe y la presentación del Frontend base de la aplicación. Expliqué las mejoras en la arquitectura de componentes y la actualización de la Landing Page, justificando las decisiones visuales y estructurales. Mi comunicación oral fue clave para evidenciar la coherencia entre la documentación, la interfaz y la lógica técnica del sistema.</p>
           <br>       
-        <p><b>Rúbens Bendezu Navarro</b></p>
+       <p><b>Rúbens Bendezu Navarro</b></p>
         <p><b>TB1:</b></p>
         <p>Me encargué de exponer el Capítulo 4 – Product Design, presentando las bases del diseño visual y la arquitectura de información del sistema. Expliqué la relación entre las Style Guidelines y el prototipo inicial, mostrando cómo las decisiones de diseño se alineaban con los requerimientos funcionales del proyecto.</p>
         <p><b>TP1:</b></p>
-        <p></p>
-          <br>         
+        <p>Durante la presentación del segundo avance, expliqué el desarrollo del módulo Workshop dentro del web application. Mostré cómo se implementó la vista de talleres y el detalle de cada uno usando Vue Router, composición modular (DDD) y consumo de la API de talleres. Expuse las decisiones técnicas detrás de la estructura de componentes, la lógica del servicio y el diseño aplicado, adaptando el discurso tanto al público técnico como a los docentes, con un enfoque claro y funcional.
+</p>
+        <br>        
         <p><b>Johan Karl Bottger Salazar</b></p>
         <p><b>TB1:</b></p>
         <p>Expliqué el Capítulo 1 – Startup Profile & Solution Profile y la primera versión de la Landing Page. Mostré la propuesta de valor y los objetivos del proyecto, conectando los fundamentos del modelo de negocio con la experiencia del usuario dentro de la aplicación.</p>
         <p><b>TP1:</b></p>
-        <p></p>
+        <p>En está entrega realizé gran parte del desarrollo del front end application siguiendo la propuesta de valor y los objetivos del proyecto establecidos.</p>
         <p><b>Luis Sebastián Rubio Ortiz</b></p>
         <p><b>TB1:</b></p>
         <p>Expuse el Capítulo 2 – Requirements Elicitation & Analysis, presentando los hallazgos de las entrevistas y el análisis de competidores. Detallé cómo esta información fundamentó la definición de los usuarios y las funcionalidades de la aplicación.</p>
         <p><b>TP1:</b></p>
-        <p>En el segundo avance, me encargue de explicar la parte del Domain Driven Desing, basandonos en las buenas practicas y lograr que el proyecto de Smart Care se produzca en forma ordenada, así explicar el diseño de la Database.</p>
-          <br>       
+        <p></p>
+        <p></p>
+          <br>         
         <p><b>Pierina Marysabel Almandroz Carbajal</b></p>
         <p><b>TB1:</b></p>
         <p>Presenté el Capítulo 5 – Product Implementation, Validation & Deployment, explicando la estructura inicial de validación y despliegue del sistema. Destaqué la importancia de conectar los avances técnicos con los objetivos de desarrollo propuestos para SmartCare.</p>
@@ -239,20 +259,20 @@ ABET – EAC - Student Outcome 5
         <p><b>TB1:</b></p>
         <p>Redacté el Capítulo 4, documentando los lineamientos de diseño visual y la arquitectura de información. Cuidé que la redacción mantuviera coherencia estética y funcional, registrando las decisiones de diseño y estilo aplicadas al sistema.</p>
         <p><b>TP1:</b></p>
-        <p></p>
-          <br>      
+        <p>Documenté el desarrollo del módulo Workshop en el informe y en el repositorio. Describí la creación de las páginas de listado y detalle de talleres, la integración con la API y la aplicación del layout y estilos. Registré los cambios con mensajes de commit claros y precisos, manteniendo un lenguaje técnico coherente con el resto del equipo.</p>
+        <br>    
         <p><b>Johan Karl Bottger Salazar</b></p>
         <p><b>TB1:</b></p>
         <p>Redacté el Capítulo 1, comunicando el perfil de la startup, la problemática abordada y los objetivos del proyecto. Procuré una escritura clara y ordenada que sirviera como base conceptual del trabajo.</p>
         <p><b>TP1:</b></p>
-        <p></p>
+        <p>Documenté efectivamente el desarrollo del Sprint 2. Asegurando la validez de la información en una estructura ordenada y clara, en relación con la base teórica del proyecto.</p>
           <br>         
         <p><b>Luis Sebastián Rubio Ortiz</b></p>
        <p><b>TB1:</b></p>
         <p>Escribí el Capítulo 2, donde documenté el análisis de usuarios y competidores. Me aseguré de mantener una redacción estructurada y analítica que reflejara los fundamentos de las decisiones de diseño y desarrollo.</p>
         <p><b>TP1:</b></p>
-        <p>En el segundo avance, me encargué de diseñar la estructura del proyecto sobre Domain Driven Desing, así mismo como el diseño y implementación de parte del código del Frontend de Smart Care.</p>
-          <br>      
+        <p></p>
+        <br>         
         <p><b>Pierina Marysabel Almandroz Carbajal</b></p>
        <p><b>TB1:</b></p>
         <p>Elaboré el Capítulo 5, detallando la implementación técnica, la validación funcional y los lineamientos de despliegue del sistema. Mantuvé una redacción técnica, clara y organizada, lo que permitió una mejor comprensión de los aspectos operativos del proyecto.</p>
@@ -475,6 +495,7 @@ Para este grupo, Roffies ofrece beneficios como la centralización del historial
 
 El segundo segmento lo conforman talleres mecánicos independientes y especializados que operan en Lima Metropolitana. Según datos del Instituto Nacional de Estadística e Informática (INEI), más del 70 % de los talleres automotrices en el Perú son micro y pequeñas empresas (MYPEs), con un alto nivel de informalidad y escasa digitalización (INEI, 2022). La mayoría carece de herramientas tecnológicas para gestionar clientes, mejorar su reputación y competir en un mercado cada vez más exigente.
 Para los talleres, Roffies representa una oportunidad de transformación digital: visibilidad en un marketplace confiable, captación de clientes nuevos sin altos costos de publicidad, sistema de reputación con reseñas verificadas y herramientas para gestionar agendas y métricas de desempeño. Al integrarse en la plataforma, los talleres pueden diferenciarse de la competencia, fidelizar clientes y aumentar sus ingresos.
+
 
 ---
 
@@ -1311,6 +1332,156 @@ Aquí se muestran los mock-ups de alta fidelidad diseñados en Figma, donde se a
 
 ![Mockup mobile FAQ and footer section](./assets/mockup-mobile-FAQ-footer-section.webp)
 
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram
+
+Representa cómo SmartCare se relaciona con los tres tipos de actores y sistemas externos.
+
+![Software Architecture Context Diagram](./assets/software-architecture-context-diagram.webp)
+
+### 4.6.2. Software Architecture Container Diagram
+
+Define los contenedores de SmartCare:
+
+![Software Architecture Container Diagram](./assets/software-architecture-container-diagram.webp)
+
+### 4.6.3. SmartCare puede dividirse en dos Bounded Contexts principales:
+
+SmartCare puede dividirse en dos Bounded Contexts principales:
+
+![Bounded Context 1](./assets/software-architecture-components-diagrams.webp)
+
+![Bounded Context 2](./assets/software-architecture-components-diagrams-2.webp)
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+
+![Class Diagram](./assets/class-diagram.webp)
+
+
+### 4.7.2. Class Directory:
+### Class User
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_user | int | Unique identifier of the user |
+| name | String | Full name of the user |
+| lastname | String | Last name of the user |
+| email | String | Email address used to log in |
+| password | String | Hashed password for authentication |
+| role | String | Role of the user (DRIVER, WORKSHOP, ADMIN) |
+
+### Class Vehicle
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_vehicle | int | Unique identifier of the vehicle |
+| plate | String | License plate number |
+| brand | String | Vehicle brand |
+| model | String | Vehicle model |
+| year | int | Manufacturing year |
+| mileage | int | Current mileage of the vehicle |
+| engine_type | String | Engine type of the vehicle |
+
+### Class MaintenanceHistory
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_history | int | Unique identifier of the maintenance record |
+| id_vehicle | int | Vehicle associated with the maintenance |
+| id_workshop | int | Workshop where maintenance was done |
+| service_type | String | Type of service performed |
+| description | String | Description of the service |
+| service_date | Date | Date the service was completed |
+| cost | Decimal | Total cost of the maintenance |
+| mileage_service | int | Vehicle mileage at time of service |
+
+### Class ServicePrediction
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_prediction | int | Unique identifier of the prediction |
+| id_vehicle | int | Vehicle associated with the prediction |
+| service_type | String | Type of service predicted |
+| estimated_date | Date | Estimated date of service |
+| estimated_cost | Decimal | Estimated cost of service |
+| probability | Float | Confidence level of the prediction |
+
+### Class WorkshopInfo
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_workshop | int | Unique identifier of the workshop |
+| commercial_name | String | Official name of the workshop |
+| description | Text | Description of the services offered |
+| location | String | Physical address of the workshop |
+| latitude | Decimal | Latitude coordinate |
+| longitude | Decimal | Longitude coordinate |
+| schedule | String | Opening hours of the workshop |
+
+### Class WorkshopService
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_service | int | Unique identifier of the service |
+| id_workshop | int | Workshop that offers the service |
+| id_catalog | int | Reference to catalog service type |
+| base_price | Decimal | Base price of the service |
+| estimated_duration | int | Estimated duration in minutes |
+
+### Class Reputation
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_reputation | int | Unique identifier of the review |
+| id_workshop | int | Workshop being reviewed |
+| id_driver | int | Driver who posted the review |
+| rating | int | Numeric rating (1–5) |
+| comment | Text | Text feedback provided |
+| date | DateTime | Date the review was posted |
+
+### Class Appointment
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_appointment | int | Unique identifier of the appointment |
+| id_driver | int | Driver who scheduled the appointment |
+| id_workshop | int | Workshop for the appointment |
+| id_vehicle | int | Vehicle for the appointment |
+| appointment_date | DateTime | Scheduled date and time |
+| status | Enum | Appointment status (Booked, Cancelled, Completed) |
+
+### Class WorkOrder
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_work_order | int | Unique identifier of the work order |
+| id_appointment | int | Appointment associated with the work order |
+| start_date | DateTime | Work start date |
+| end_date | DateTime | Work end date |
+| status | Enum | Work order status (Open, In progress, Closed) |
+| notes | Text | Notes from the workshop |
+
+### Class Evidence
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_evidence | int | Unique identifier of the evidence |
+| id_work_order | int | Work order associated with the evidence |
+| type | Enum | Evidence type (Before, After) |
+| image_url | String | URL of the evidence image |
+| description | Text | Additional comments or notes |
+
+### Class AdminCatalog
+| Attribute | Type | Description |
+|------------|------|--------------|
+| id_admin_catalog | int | Unique identifier of the admin catalog |
+| name | String | Name of the catalog group |
+| description | Text | Description of the catalog purpose |
+| created_by | int | User ID of the admin who created it |
+
+
+## 4.8. Database Design
+
+El siguiente diagrama muestra la estructura relacional de SmartCare, incluyendo las entidades, relaciones y claves foráneas definidas para garantizar la consistencia del dominio del sistema. Las tablas se diseñaron considerando principios de normalización y escalabilidad, permitiendo su implementación en MySQL, PostgreSQL o cualquier motor SQL compatible.
+
+### 4.8.1. Database Diagram
+
+![Database Diagram](./assets/database-diagram.webp)
+
+
 ---
 
 # 5.1. Software Configuration Management
@@ -1445,3 +1616,79 @@ Durante el transcurso de este sprint, todos los miembros participaron de forma a
 equipo durante el Sprint 1:
 
 ![Alt text](./assets/sprint-1-collaboration-insights.webp)
+
+
+### 5.2.2 Sprint 2
+Durante este período, nos enfocamos en la implementación de las características y funcionalidades prioritarias identificadas en la planificación inicial. Esto implica traducir los requisitos y especificaciones en código funcional, desarrollando las bases de nuestro producto de manera iterativa.
+
+
+#### 5.2.2.1 Sprint Planning 2
+En esta sección, se presentará el sprint #2 con la versión inicial del trabajo para la entrega del proyecto, detallando la organización, distribución y evidencia de resultados de la frontend Web Application.
+
+| Sprint 1  | Date  | Time  | Location  | Prepared By  | Attendees  |
+|---|---|---|---|---|---|
+| 1  | 28/9/2025  | 21:00  | Reunión mediante Google Meet  | Luis Sebastián Rubio  | Johan Bottger, Pierina Carbajal, Piero Sulca, Rubens Bendezu |
+| Sprint 2 Goal  | Sprint 2 Velocity  | Sum of Story Points  | Aspectos Técnicos  |
+|---|---|---|
+| Desarrollo e Implementación del Frontend Web Application | 15  | 15 | HTML5, CSS3, JS, Figma, Vue, Primevue  |
+
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+Los aspectos principales considerados para el sprint corresponden a los bounded contexts aplicados en el desarrollo del frontend web Application.
+
+| Team Member | Github Username | Frontend Main (Context Auth) | Feature Appointments | Feature Workshop | Feature Profile | Feature Vehicle |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| Piero Ángel Sulca Sánchez | psulca | L | C | C5 | C | C |
+| Johan Karl Bottger Salazar | Deskjobo | C | L | C | C | C |
+| Luis Sebastián Rubio Ortiz | notoriussxd | C | C | C | L | C |
+| Pierina Marysabel Almandroz Carbajal | pierinaaa29 | C | C | C | C | L |
+| Rubens Bendezú Navaro | Lucemz | C | C | L | C | C |
+
+#### 5.2.2.3 Sprint Backlog 1
+Durante este segundo Sprint el equipo se enfocó en la elaboración del frontend, organizando y distribuyendo tareas en el tablero de Sprint de acuerdo con las habilidades de cada integrante.
+
+| Sprint 2  | Frontend Web Application|           |           |           |           |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| User Story | Work-Item Task | Description | Estimation hrs | Assigned To | Status |
+| HU02 Authentication | Development of Bounded Context | - | 3 | Piero Sulca | Done |
+| HU03 Feature Appointments | Development of Bounded Context | - | 3 | Johan Bottger | Done |
+| HU04 Feature Workshop | Development of Bounded Context | - | 3 | Rubens Bendezú | Done |
+| HU05 Feature Profile | Development of Bounded Context | - | 3 | Sebastián Rubio | Done |
+| HU06 Feature Vehicle | Development of Bounded Context | - | 3 | Pierina Almandroz | Done |
+
+#### 5.2.2.4 Development Evidence for Sprint Review
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del segundo Sprint: Frontend Web Application.
+
+A continuación, se presentan los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó para el desarrollo del proyecto.
+
+![Alt text](./assets/sprint-2-development-evidence.jpg)
+
+| Repository | Branch | Commit ID | Message | Body | Commit Date  |
+|---|---|---|---|---|---|
+| Roffies | feature-profile-workshop | 019717ba6661b2858e5f97c3bcaa60023783ec52 | feat: Add feature Profile in view Workshop Profile | - | 7/10/2025 |
+| Roffies | feature-appointments | 1bc2f7faefc7a81d5035e2f8c8001922e6beae70 | Feat: Added Appointment Service for Driver domain | - | 8/10/2025 |
+
+#### 5.2.1.5 Testing Suite Evidence for Sprint Review
+No aplica.
+
+#### 5.2.1.6 Execution Evidence for Sprint Review
+Se incluyen capturas detalladas de la ejecución del Frontend Web Application de la aplicación como evidencia.
+La Landing Page es compuesta por varias secciones que se presentan en las capturas a continuación.
+
+![Alt text](./assets/sprint-2-execution-1.jpg)
+![Alt text](./assets/sprint-2-execution-2.jpg)
+
+#### 5.2.1. Services Documentation Evidence for Sprint Review
+No aplica a primer sprint y desarrollo del Frontend Web Application.
+
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Se incluye la evidencia de despliegue del Frontend Web Application en Vercel.
+
+![Alt text](./assets/sprint-2-deployment-evidence.jpg)
+
+#### 5.2.1.8 Team Collaboration Insights during Sprint
+Durante el transcurso de este sprint, todos los miembros participaron de forma activa y constante en la creación de las tareas asignadas. A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del
+equipo durante el Sprint 2:
+
+![Alt text](./assets/sprint-2-collaboration-insights.jpg)
