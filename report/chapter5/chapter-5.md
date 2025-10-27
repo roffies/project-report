@@ -55,7 +55,7 @@ Se adoptaron guías de estilo estándar en inglés para cada lenguaje empleado:
 Esto asegura legibilidad, coherencia y facilidad de mantenimiento en todo el código del proyecto.
 
 ## 5.1.4. Software Deployment Configuration
-La gestión del código fuente del proyecto **SmartCare** se realizó utilizando GitHub. Para la publicación y despliegue de la Landing Page, se empleó GitHub Pages, que permite una visualización directa desde el repositorio principal.
+La gestión del código fuente del proyecto **SmartCare** se realizó utilizando GitHub. Para la publicación y despliegue de la Landing Page, se empleó el servicio de Vercel, que permite una visualización directa desde el repositorio principal.
 
 Para el desarrollo y despliegue de la Landing Page de **SmartCare** se han utilizado las siguientes herramientas:
 
@@ -63,7 +63,7 @@ Para el desarrollo y despliegue de la Landing Page de **SmartCare** se han utili
 - **CSS**: Lenguaje de estilos para dar formato, color, distribución y diseño gráfico, logrando una interfaz atractiva e interactiva.  
 - **JavaScript**: Añade interactividad y dinamismo a los componentes de la Landing Page, como validaciones en formularios, navegación fluida y respuestas a eventos del usuario.
 
-https://roffies.github.io/landing-page/
+<https://roffies-smartcare.vercel.app/>
 
 
 ## 5.2 Landing Page, Services & Applications Implementation
@@ -200,6 +200,9 @@ No aplica a primer sprint y desarrollo del Frontend Web Application.
 Se incluye la evidencia de despliegue del Frontend Web Application en Vercel.
 
 ![Alt text](../../assets/sprint-2-deployment-evidence.jpg)
+
+<https://front-end-alpha-weld.vercel.app/>
+
 
 #### 5.2.1.8 Team Collaboration Insights during Sprint
 Durante el transcurso de este sprint, todos los miembros participaron de forma activa y constante en la creación de las tareas asignadas. A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del
