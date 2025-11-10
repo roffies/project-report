@@ -263,14 +263,14 @@ Actualmente no compara precios ni talleres, prefiere acudir siempre al mismo est
 
 **Duración de la Entrevista:** 9:44
 
-![entrevista 1](https://github.com/user-attachments/assets/entrevista2)
+![entrevista 2](https://github.com/user-attachments/assets/entrevista2)
 
 **Resumen de la Entrevista:**
 Hugo, conductor de 27 años, Maneja un SUV. El mantenimiento del vehículo siempre se ha realizado por un mecánico recomendado. Ha tenido malas experiencias previas.
 Destaca la importancia de un historial de servicios. Opina que un aplicativo externo al vehículo facilita el proceso de mantenimientos periódicos.
 En caso de emergencias prioriza la cercanía a mecánicos que puedan asistir.
 
-**Enlace:** [https://youtu.be/TZH8wQTGVig](https://youtu.be/mZkHtR982Fc)
+**Enlace:** https://youtu.be/mZkHtR982Fc
 
 ## Entrevista para el Segmento Objetivo 2 - Talleres Mecánicos:
 
