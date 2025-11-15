@@ -292,3 +292,59 @@ equipo durante el Sprint 3:
 
 ![Alt text](../../assets/sprint-3-collaboration-insights.jpg)
 
+
+## 5.3 Validation Interviews
+
+### 5.3.1 Diseño de Entrevistas
+
+
+### 5.3.2 Registro de Entrevistas
+
+## Entrevista para el Segmento Objetivo 1 - Dueños de vehículos:
+
+**Entrevista N°1:**
+
+**Entrevistado:** Sebastián De Las Casas  
+
+**Sexo:** Masculino
+
+**Edad:** 21 años 
+
+**Inicio de la Entrevista:** 0:00
+
+**Duración de la Entrevista:** 2:40
+
+![Alt text](../../assets/entrevista_validacion1.png)
+
+**Resumen de la Entrevista:**
+Sebastián, conductor de 21 años, realiza chequeos a su vehículo de manera periódica (cada seis meses o una vez al año). Resaltó su satisfacción con la funcionalidad de historial del producto, cumpliendo con su necesidad de un registro del trabajo realizado en su vehículo. Aprueba el diseño visual de la aplicación web. Sugiere la implementación de notificaciones.
+
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/IQBU70VDu3MJT7pYOqa4o9DMAU3IBr9D8Dt9rlMz6QfeGek?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=17eT1y
+
+## Entrevista para el Segmento Objetivo 2 - Dueños de Talleres: 
+
+**Entrevista N°2:**
+
+**Entrevistado:** Diego Cacho 
+
+**Sexo:** Masculino
+
+**Edad:** 20 años 
+
+**Inicio de la Entrevista:** 0:00
+
+**Duración de la Entrevista:** 2:36
+
+![Alt text](../../assets/entrevista_validacion2.png)
+
+**Resumen de la Entrevista:**
+Diego trabaja en tiempo medio en un taller de automóviles por los últimos 2 años. Diego resalta el orden de las funcionalidades de la aplicación y lo considera una mejora sustancial al proceso actual de manejo de servicios del taller. Destaca la funcionalidad de un registro de clientes. Sugiere mayor expansión en la funcionalidad de perfil de taller para mejorar su alcance al público.
+
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/IQBW97dQ3YgGRbYtUPr8Jc2MAZlZuV-CwrjjK3f-CHKpVTU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Qibh7G
+
+
+### 5.3.3 Evaluación según heurísticas
+
+## 5.4 Video About-the-Product
+
+
