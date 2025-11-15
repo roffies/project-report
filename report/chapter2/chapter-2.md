@@ -263,7 +263,7 @@ Actualmente no compara precios ni talleres, prefiere acudir siempre al mismo est
 
 **Duración de la Entrevista:** 9:44
 
-![entrevista 2](https://github.com/user-attachments/assets/entrevista2.png)
+![entrevista 2](../../assets/entrevista_hugo1.png)
 
 **Resumen de la Entrevista:**
 Hugo, conductor de 27 años, Maneja un SUV. El mantenimiento del vehículo siempre se ha realizado por un mecánico recomendado. Ha tenido malas experiencias previas.
@@ -286,7 +286,7 @@ En caso de emergencias prioriza la cercanía a mecánicos que puedan asistir.
 
 **Duración de la Entrevista:** 7:07
 
-![entrevista 2](https://github.com/user-attachments/assets/3c9a38f1-f9ca-462b-aca5-ce680179ae1f)
+![entrevista 2](../../assets/3c9a38f1-f9ca-462b-aca5-ce680179ae1f)
 
 **Resumen de la Entrevista:** 
 RM AUTOMOTRIZ es un taller con 8 años de experiencia que ofrece mecánica general y servicios eléctricos básicos. Actualmente capta clientes principalmente por recomendaciones, ubicación y un uso limitado de redes sociales, pero reconoce la importancia de fortalecer su presencia digital. El taller enfrenta problemas de seguimiento, ya que muchos clientes no regresan por falta de recordatorios, y aún maneja cotizaciones de forma manual. Ven con interés la implementación de herramientas como agenda en línea, alertas de mantenimiento y un botón SOS para emergencias, ya que mejorarían la organización, fidelización y captación de clientes. Para afiliarse a una plataforma como Roffies consideran clave la confianza, la visibilidad y costos razonables, y estarían dispuestos a pagar una suscripción premium siempre que garantice mayor exposición, acceso a clientes verificados y beneficios adicionales como estadísticas y recordatorios automatizados
@@ -305,7 +305,7 @@ RM AUTOMOTRIZ es un taller con 8 años de experiencia que ofrece mecánica gener
 
 **Duración de la Entrevista:** 3:22
 
-![entrevista](https://github.com/user-attachments/assets/entrevista_diego1.png)
+![entrevista](../../assets/entrevista_diego1.png)
 
 **Resumen de la Entrevista:** 
 Diego trabaja a tiempo medio en un taller mécanico de automóviles. Actualmente manejan las solicitudes de mantenimiento a través de Whatsapp o manualmente. Considera que al taller le beneficiaría un sistema centralizado que ayude a tener un seguimiento con los clientes además de un registro digital de los servicios brindados.
