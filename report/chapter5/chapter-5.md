@@ -297,6 +297,17 @@ equipo durante el Sprint 3:
 
 ### 5.3.1 Diseño de Entrevistas
 
+En esta sección se tiene las entrevistas a realizar a los segmentos objetivos, tanto los dueños de vehiculos como los dueños de talleres.
+Preguntas a realizar:
+1. Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿Dónde vives actualmente?
+4. ¿A qué te dedicas?
+5. ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+6. ¿Qué opinas sobre el diseño de nuestro panel de control y las multiples herramientas que ofrece?
+7. ¿Qué funcionalidades le agregarias a la aplicación?
+8. ¿Hay alguna cosa que le quitarías a la aplicación?
+9. Como (Segmento objetivo) ¿Tienes alguna recomendación que ayude a mejorar la experiencia de uso de la aplicación?
 
 ### 5.3.2 Registro de Entrevistas
 
