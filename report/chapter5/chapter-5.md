@@ -332,6 +332,42 @@ Sebastián, conductor de 21 años, realiza chequeos a su vehículo de manera per
 
 **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/IQBU70VDu3MJT7pYOqa4o9DMAU3IBr9D8Dt9rlMz6QfeGek?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=17eT1y
 
+---
+
+# Entrevista N°2
+
+**Entrevistada:** Ingrid Ysa  
+**Sexo:** Femenino  
+**Edad:** 21 años  
+
+**Inicio de la Entrevista:** 0:00  
+**Duración de la Entrevista:** 2:15  
+
+![Alt text](../../assets/entrevista_ingrid.png)
+
+**Resumen de la Entrevista:**  
+Ingrid, conductora de 21 años, señala que la aplicación le resulta conveniente porque evita la búsqueda manual de talleres y hace que el proceso de atención fluya con mayor rapidez. Comenta que la interfaz es sencilla de usar y que la experiencia le parece eficiente y práctica.
+
+**Enlace:** https://youtu.be/QZ9tY4oI-w8
+
+---
+
+# Entrevista N°3
+
+**Entrevistado:** Juan Diego Carranza  
+**Sexo:** Masculino  
+**Edad:** 26 años  
+
+**Inicio de la Entrevista:** 0:00  
+**Duración de la Entrevista:** 4:36  
+
+![Alt text](../../assets/entrevista_juandiego.png)
+
+**Resumen de la Entrevista:**  
+Juan Diego, propietario de un vehículo, expresa su satisfacción general con la aplicación, destacando que le facilita encontrar servicios y gestionar el mantenimiento de su carro sin complicaciones. Además, menciona que le gustaría contar con una funcionalidad adicional que muestre un **progreso detallado del estado de su reparación**, indicando etapas como diagnóstico, avance y finalización. Considera que esta característica aumentaría la confianza y transparencia del proceso.
+
+**Enlace:** https://youtu.be/QZ9tY4oI-w8
+
 ## Entrevista para el Segmento Objetivo 2 - Dueños de Talleres: 
 
 **Entrevista N°2:**
