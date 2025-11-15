@@ -72,6 +72,12 @@
   <td>Equipo: Piero A. Sulca Sánchez; Rúbens Bendezu Navarro; Luis S. Rubio Ortiz; Johan K. Bottger Salazar; Pierina M. Almandroz Carbajal</td>
   <td>Actualización del informe realizada por el equipo: corrección de errores, actualización de contenidos, incorporación de evidencias y reestructuración de secciones.</td>
 </tr>
+<tr>
+  <td>3.0</td>
+  <td>14/11/2025</td>
+  <td>Equipo: Piero A. Sulca Sánchez; Rúbens Bendezu Navarro; Luis S. Rubio Ortiz; Johan K. Bottger Salazar</td>
+  <td>Actualización del informe realizada por el equipo, corrección de errores, mejora continua, incorporación de evidencias.</td>
+</tr>
 </table>
 
 </br>
@@ -86,6 +92,10 @@ En esta entrega, cada integrante del equipo participó activamente en el desarro
 
 ## TP1
 En esta entrega, la colaboración coordinada del equipo hizo posible la implementación de las principales funcionalidades de la aplicación web. La distribución de tareas por secciones, conforme al diseño y contenido establecidos, optimizó el desarrollo. Los registros de colaboración del repositorio oficial demuestran la participación activa de todos los integrantes.
+![Contributions tp](../../assets/project-report-collaboration-insights-1.webp)
+
+## TB3
+En esta entrega, se logró la implementación del backend web services. La distribución de tareas por secciones, conforme al diseño y contenido establecidos, optimizó el desarrollo. Los registros de colaboración del repositorio oficial demuestran la participación de los integrantes.
 ![Contributions tp](../../assets/project-report-collaboration-insights-1.webp)
 
 # Contenido
@@ -181,6 +191,18 @@ En esta entrega, la colaboración coordinada del equipo hizo posible la implemen
       - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+     
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+     
+  - [5.3 Validation Interviews](#53-validation-interviews)
 
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
@@ -224,6 +246,8 @@ ABET – EAC - Student Outcome 5
         <p>Expliqué el Capítulo 1 – Startup Profile & Solution Profile y la primera versión de la Landing Page. Mostré la propuesta de valor y los objetivos del proyecto, conectando los fundamentos del modelo de negocio con la experiencia del usuario dentro de la aplicación.</p>
         <p><b>TP1:</b></p>
         <p>En está entrega realizé gran parte del desarrollo del front end application siguiendo la propuesta de valor y los objetivos del proyecto establecidos.</p>
+        <p><b>TB3:</b></p>
+        <p>En está entrega realizé el desarrollo del back end web services siguiendo la propuesta de valor y los objetivos del proyecto establecidos.</p>  
         <p><b>Luis Sebastián Rubio Ortiz</b></p>
         <p><b>TB1:</b></p>
         <p>Expuse el Capítulo 2 – Requirements Elicitation & Analysis, presentando los hallazgos de las entrevistas y el análisis de competidores. Detallé cómo esta información fundamentó la definición de los usuarios y las funcionalidades de la aplicación.</p>
@@ -266,6 +290,8 @@ ABET – EAC - Student Outcome 5
         <p>Redacté el Capítulo 1, comunicando el perfil de la startup, la problemática abordada y los objetivos del proyecto. Procuré una escritura clara y ordenada que sirviera como base conceptual del trabajo.</p>
         <p><b>TP1:</b></p>
         <p>Documenté efectivamente el desarrollo del Sprint 2. Asegurando la validez de la información en una estructura ordenada y clara, en relación con la base teórica del proyecto.</p>
+        <p><b>TB3:</b></p>
+        <p>Documenté efectivamente el desarrollo del Sprint 3. Asegurando la validez de la información en una estructura ordenada y clara, en relación con la base teórica del proyecto.</p>
           <br>         
         <p><b>Luis Sebastián Rubio Ortiz</b></p>
        <p><b>TB1:</b></p>
