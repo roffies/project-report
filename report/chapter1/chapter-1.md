@@ -96,7 +96,8 @@ En esta entrega, la colaboración coordinada del equipo hizo posible la implemen
 
 ## TB3
 En esta entrega, se logró la implementación del backend web services. La distribución de tareas por secciones, conforme al diseño y contenido establecidos, optimizó el desarrollo. Los registros de colaboración del repositorio oficial demuestran la participación de los integrantes.
-![Contributions tp](../../assets/project-report-collaboration-insights-1.webp)
+![Contributions tp](../../assets/collab_insights3.png)
+
 
 # Contenido
 [Student Outcome](#student-outcome)
