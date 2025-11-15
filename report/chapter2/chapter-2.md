@@ -305,7 +305,7 @@ RM AUTOMOTRIZ es un taller con 8 años de experiencia que ofrece mecánica gener
 
 **Duración de la Entrevista:** 3:22
 
-![entrevista 2](https://github.com/user-attachments/assets/entrevista_diego1.png)
+![entrevista](https://github.com/user-attachments/assets/entrevista_diego1.png)
 
 **Resumen de la Entrevista:** 
 Diego trabaja a tiempo medio en un taller mécanico de automóviles. Actualmente manejan las solicitudes de mantenimiento a través de Whatsapp o manualmente. Considera que al taller le beneficiaría un sistema centralizado que ayude a tener un seguimiento con los clientes además de un registro digital de los servicios brindados.
