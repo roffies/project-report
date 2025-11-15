@@ -240,6 +240,8 @@ ABET – EAC - Student Outcome 5
         <p><b>TP1:</b></p>
         <p>Durante la presentación del segundo avance, expliqué el desarrollo del módulo Workshop dentro del web application. Mostré cómo se implementó la vista de talleres y el detalle de cada uno usando Vue Router, composición modular (DDD) y consumo de la API de talleres. Expuse las decisiones técnicas detrás de la estructura de componentes, la lógica del servicio y el diseño aplicado, adaptando el discurso tanto al público técnico como a los docentes, con un enfoque claro y funcional.
 </p>
+        <p><b>TB3:</b></p>
+        <p>En esta entrega, me encargué de revisar que los flujos principales de la aplicación funcionaran correctamente y entrevisté a dos conductores para conocer su conformidad con la app.</p>
         <br>        
         <p><b>Johan Karl Bottger Salazar</b></p>
         <p><b>TB1:</b></p>
@@ -284,6 +286,8 @@ ABET – EAC - Student Outcome 5
         <p>Redacté el Capítulo 4, documentando los lineamientos de diseño visual y la arquitectura de información. Cuidé que la redacción mantuviera coherencia estética y funcional, registrando las decisiones de diseño y estilo aplicadas al sistema.</p>
         <p><b>TP1:</b></p>
         <p>Documenté el desarrollo del módulo Workshop en el informe y en el repositorio. Describí la creación de las páginas de listado y detalle de talleres, la integración con la API y la aplicación del layout y estilos. Registré los cambios con mensajes de commit claros y precisos, manteniendo un lenguaje técnico coherente con el resto del equipo.</p>
+        <p><b>TB3:</b></p>
+        <p>Documenté los resultados de la verificación de los flujos principales de la aplicación y las entrevistas realizadas a dos conductores, registrando sus comentarios y nivel de conformidad con la app.</p>
         <br>    
         <p><b>Johan Karl Bottger Salazar</b></p>
         <p><b>TB1:</b></p>
