@@ -294,7 +294,7 @@ https://back-end-production-b9db.up.railway.app/swagger
 Durante el transcurso de este sprint, la participación completa del equipo fue limitada. A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del
 equipo durante el Sprint 3:
 
-![Alt text](../../assets/collab-insights3.png)
+![Alt text](../../assets/collab_insights3.png)
 
 
 ## 5.3 Validation Interviews
