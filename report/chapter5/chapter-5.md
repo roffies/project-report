@@ -252,12 +252,13 @@ En esta sección se explica y presenta los avances en implementación con relaci
 
 A continuación, se presentan los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó para el desarrollo del proyecto.
 
-![Alt text](../../assets/sprint-3-development-evidence.jpg)
+![Alt text](../../assets/sprint-3-development-evidence.png)
 
 | Repository | Branch | Commit ID | Message | Body | Commit Date  |
 |---|---|---|---|---|---|
-| Roffies | feature-profile-workshop | 019717ba6661b2858e5f97c3bcaa60023783ec52 | feat: Add feature Profile in view Workshop Profile | - | 7/10/2025 |
-| Roffies | feature-appointments | 1bc2f7faefc7a81d5035e2f8c8001922e6beae70 | Feat: Added Appointment Service for Driver domain | - | 8/10/2025 |
+| Roffies | main | 2b29f3e94fe5bc2d53dd3f243894f53a07cd0746 | feat: Commit inicial back-end setup | - | 12/11/2025 |
+| Roffies | main | 51712c05c0a5a2cb7fee7467526393a7095d5345 | feat: Added Bussiness Rules for bounded contexts | - | 14/11/2025 |
+| Roffies | main | 5a698be56991a69bc7c3338d7d56da8956a08cf3 | feat: add Dockerfile | - | 15/10/2025 |
 
 #### 5.2.3.5 Testing Suite Evidence for Sprint Review
 No aplica.
@@ -265,32 +266,35 @@ No aplica.
 #### 5.2.3.6 Execution Evidence for Sprint Review
 Se incluyen capturas detalladas de la ejecución del Backend Web Service de la aplicación como evidencia.
 
-![Alt text](../../assets/sprint-3-execution-1.jpg)
-![Alt text](../../assets/sprint-3-execution-2.jpg)
+![Alt text](../../assets/sprint-3-execution-1.png)
 
 #### 5.2.3.7 Services Documentation Evidence for Sprint Review
 A continuación se detalla la implementación de cada endpoint que compone el conjunto de servicios del backend.
 
 | Endpoint | Actions | URL | Context |
 |---|---|---|---|---|---|
-| Appointment | f | url | Appointments |
+| Appointment | get-post-get(id)-put | /api/Appointment | Appointments |
+| User | get-post-get(id)-put/delete | /api/User | Users |
+| Vehicle | get-post-get(id)-delete | /api/Vehicle | Vehicles |
+| Workshop | get-post-get(id)-put/delete | /api/Workshop | Workshops |
 
 Evidencia de respuestas e implementación de documentación OpenApi.
-![Alt text](../../assets/sprint-3-service-evidence.jpg)
+![Alt text](../../assets/sprint-3-service-evidence.png)
 
 #### 5.2.3.8 Software Deployment Evidence for Sprint Review
 Se incluye la evidencia de despliegue del Backend Web Service y de la base de datos SQL utilizada.
 
-![Alt text](../../assets/sprint-3-deployment-evidence-1.jpg)
-![Alt text](../../assets/sprint-3-deployment-evidence-2.jpg)
+![Alt text](../../assets/sprint-3-deployment1.png)
+![Alt text](../../assets/sprint-3-deployment2.png)
 
-
+Enlace con documentación Swagger:
+https://back-end-production-b9db.up.railway.app/swagger
 
 #### 5.2.3.8 Team Collaboration Insights during Sprint
 Durante el transcurso de este sprint, la participación completa del equipo fue limitada. A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del
 equipo durante el Sprint 3:
 
-![Alt text](../../assets/sprint-3-collaboration-insights.jpg)
+![Alt text](../../assets/collab-insights3.png)
 
 
 ## 5.3 Validation Interviews
